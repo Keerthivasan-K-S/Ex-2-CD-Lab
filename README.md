@@ -2,6 +2,7 @@
 
 ## Name : Keerthivasan K S
 ## Reg No : 212224230120
+## Date : 12/5/2026
 
 # AIM
 ## To write a lex program to implement lexical analyzer to recognize a few patterns.
